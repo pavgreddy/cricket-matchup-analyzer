@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+frontend/
+data/raw/
+data/processed/deliveries.csv
+data/processed/deliveries_with_styles.csv
+data/manual_overrides.csv
+*.md

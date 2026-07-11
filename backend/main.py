@@ -108,8 +108,12 @@ def health_check():
 @app.get("/batters", response_model=list[str])
 def get_batters(search: Optional[str] = Query(None, description="Optional substring filter")):
     if search:
-        s = search.lower()
-        return [b for b in ALL_BATTERS if s in b.lower()]
+        # Cricsheet names are "Initial Surname" (e.g. "V Kohli"), but people
+        # naturally search by full name ("Virat Kohli"). Match if ANY word
+        # in the search matches, so typing the full name still finds them
+        # via the surname.
+        tokens = [t.lower() for t in search.split() if t]
+        return [b for b in ALL_BATTERS if any(t in b.lower() for t in tokens)]
     return ALL_BATTERS
 
 
