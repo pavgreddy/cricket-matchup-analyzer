@@ -1,0 +1,578 @@
+bowler,bowling_style,batting_style,playing_role,balls_bowled,bowling_arm,bowling_type,bowling_detail
+R Ashwin,Right arm Offbreak,Right hand Bat,Bowling Allrounder,4868,Right,Spin,Offbreak
+B Kumar,Right arm Medium,Right hand Bat,Bowler,4769,Right,Pace,Medium
+SP Narine,Right arm Offbreak,Left hand Bat,Bowling Allrounder,4730,Right,Spin,Offbreak
+RA Jadeja,Slow Left arm Orthodox,Left hand Bat,Allrounder,4329,Left,Spin,Left-arm orthodox
+YS Chahal,Legbreak Googly,Right hand Bat,Bowler,4167,Right,Spin,Legbreak
+PP Chawla,Legbreak,Left hand Bat,Bowling Allrounder,3895,Right,Spin,Legbreak
+JJ Bumrah,Right arm Fast,Right hand Bat,Bowler,3792,Right,Pace,Fast
+AR Patel,Slow Left arm Orthodox,Left hand Bat,Bowling Allrounder,3639,Left,Spin,Left-arm orthodox
+Rashid Khan,Legbreak Googly,Right hand Bat,Bowling Allrounder,3585,Right,Spin,Legbreak
+Harbhajan Singh,Right arm Offbreak,Right hand Bat,Bowler,3496,Right,Spin,Offbreak
+A Mishra,Legbreak,Right hand Bat,Bowler,3444,Right,Spin,Legbreak
+DJ Bravo,Right arm Medium,Right hand Bat,Allrounder,3296,Right,Pace,Medium
+Sandeep Sharma,Right arm Medium,Right hand Bat,Bowler,3295,Right,Pace,Medium
+UT Yadav,Right arm Fast,Right hand Bat,Bowler,3190,Right,Pace,Fast
+Mohammed Shami,Right arm Fast,Right hand Bat,Bowler,3035,Right,Pace,Fast
+SL Malinga,Right arm Fast,Right hand Bat,Bowler,2974,Right,Pace,Fast
+TA Boult,Left arm Fast medium,Right hand Bat,Bowler,2892,Left,Pace,Fast-medium
+Mohammed Siraj,Right arm Fast,Right hand Bat,Bowler,2834,Right,Pace,Fast
+KH Pandya,Slow Left arm Orthodox,Left hand Bat,Allrounder,2779,Left,Spin,Left-arm orthodox
+HV Patel,Right arm Medium,Right hand Bat,Bowler,2654,Right,Pace,Medium
+P Kumar,Right arm Medium,Right hand Bat,Bowler,2637,Right,Pace,Medium
+I Sharma,Right arm Fast medium,Right hand Bat,Bowler,2546,Right,Pace,Fast-medium
+MM Sharma,Right arm Medium,Right hand Bat,Bowler,2471,Right,Pace,Medium
+JD Unadkat,Left arm Medium,Right hand Bat,Bowler,2418,Left,Pace,Medium
+K Rabada,Right arm Fast,Left hand Bat,Bowler,2395,Right,Pace,Fast
+SN Thakur,Right arm Medium,Right hand Bat,Bowler,2355,Right,Pace,Medium
+Kuldeep Yadav,Left arm Wrist spin,Left hand Bat,Bowler,2336,Left,Spin,Left-arm wrist spin
+DW Steyn,Right arm Fast,Right hand Bat,Bowler,2282,Right,Pace,Fast
+Z Khan,Left arm Fast medium,Right hand Bat,Bowler,2276,Left,Pace,Fast-medium
+CV Varun,Legbreak Googly,Right hand Bat,Bowler,2187,Right,Spin,Legbreak
+R Vinay Kumar,Right arm Medium,Right hand Bat,Bowler,2186,Right,Pace,Medium
+DL Chahar,Right arm Medium,Right hand Bat,Bowler,2171,Right,Pace,Medium
+Arshdeep Singh,Left arm Medium fast,Left hand Bat,Bowler,2167,Left,Pace,Medium-fast
+SR Watson,Right arm Fast medium,Right hand Bat,Allrounder,2137,Right,Pace,Fast-medium
+IK Pathan,Left arm Medium fast,Left hand Bat,Allrounder,2113,Left,Pace,Medium-fast
+A Nehra,Left arm Medium fast,Right hand Bat,Bowler,1974,Left,Pace,Medium-fast
+PP Ojha,Slow Left arm Orthodox,Left hand Bat,Bowler,1945,Left,Spin,Left-arm orthodox
+AD Russell,Right arm Fast,Right hand Bat,Allrounder,1885,Right,Pace,Fast
+PJ Cummins,Right arm Fast,Right hand Bat,Bowler,1883,Right,Pace,Fast
+DS Kulkarni,Right arm Medium,Right hand Bat,Bowler,1876,Right,Pace,Medium
+RP Singh,Left arm Fast medium,Right hand Bat,Bowler,1874,Left,Pace,Fast-medium
+HH Pandya,Right arm Medium fast,Right hand Bat,Allrounder,1865,Right,Pace,Medium-fast
+Ravi Bishnoi,Legbreak Googly,Right hand Bat,Bowler,1857,Right,Spin,Legbreak
+Avesh Khan,Right arm Fast medium,Right hand Bat,Bowler,1840,Right,Pace,Fast-medium
+M Prasidh Krishna,Right arm Fast medium,Right hand Bat,Bowler,1837,Right,Pace,Fast-medium
+JA Morkel,Right arm Medium fast,Left hand Bat,Bowling Allrounder,1807,Right,Pace,Medium-fast
+CH Morris,Right arm Fast medium,Right hand Bat,Bowling Allrounder,1801,Right,Pace,Fast-medium
+JH Kallis,Right arm Fast medium,Right hand Bat,Allrounder,1799,Right,Pace,Fast-medium
+KK Ahmed,Left arm Medium,Right hand Bat,Bowler,1741,Left,Pace,Medium
+RD Chahar,Legbreak Googly,Right hand Bat,Bowler,1728,Right,Spin,Legbreak
+M Morkel,Right arm Fast,Left hand Bat,Bowler,1699,Right,Pace,Fast
+R Bhatia,Right arm Medium fast,Right hand Bat,Allrounder,1661,Right,Pace,Medium-fast
+JC Archer,Right arm Fast,Right hand Bat,Bowler,1658,Right,Pace,Fast
+T Natarajan,Left arm Medium,Left hand Bat,Bowler,1631,Left,Pace,Medium
+KV Sharma,Legbreak Googly,Left hand Bat,Bowler,1611,Right,Spin,Legbreak
+AB Dinda,Right arm Medium fast,Right hand Bat,Bowler,1589,Right,Pace,Medium-fast
+KA Pollard,Right arm Medium,Right hand Bat,Batting Allrounder,1586,Right,Pace,Medium
+M Muralitharan,Right arm Offbreak,Right hand Bat,Bowler,1581,Right,Spin,Offbreak
+L Balaji,Right arm Medium fast,Right hand Bat,Bowler,1574,Right,Pace,Medium-fast
+SK Trivedi,Right arm Medium,Right hand Bat,Bowler,1557,Right,Pace,Medium
+Shakib Al Hasan,Slow Left arm Orthodox,Left hand Bat,Allrounder,1515,Left,Spin,Left-arm orthodox
+S Nadeem,Slow Left arm Orthodox,Right hand Bat,Bowler,1444,Left,Spin,Left-arm orthodox
+Mustafizur Rahman,Left arm Fast medium,Left hand Bat,Bowler,1419,Left,Pace,Fast-medium
+MM Patel,Right arm Medium fast,Right hand Bat,Bowler,1382,Right,Pace,Medium-fast
+MJ McClenaghan,Left arm Fast medium,Left hand Bat,Bowler,1346,Left,Pace,Fast-medium
+Imran Tahir,Legbreak Googly,Right hand Bat,Bowler,1340,Right,Spin,Legbreak
+SM Curran,Left arm Medium fast,Left hand Bat,Allrounder,1308,Left,Pace,Medium-fast
+MG Johnson,Left arm Fast,Left hand Bat,Bowler,1301,Left,Pace,Fast
+JP Faulkner,Left arm Fast medium,Right hand Bat,Bowling Allrounder,1287,Left,Pace,Fast-medium
+JO Holder,Right arm Medium fast,Right hand Bat,Bowling Allrounder,1285,Right,Pace,Medium-fast
+MA Starc,Left arm Fast,Left hand Bat,Bowler,1264,Left,Pace,Fast
+TG Southee,Right arm Medium fast,Right hand Bat,Bowler,1262,Right,Pace,Medium-fast
+S Kaul,Right arm Medium,Right hand Bat,Bowler,1238,Right,Pace,Medium
+SK Warne,Legbreak Googly,Right hand Bat,Bowler,1223,Right,Spin,Legbreak
+JR Hazlewood,Right arm Fast medium,Left hand Bat,Bowler,1214,Right,Pace,Fast-medium
+TU Deshpande,Right arm Medium,Left hand Bat,Bowler,1194,Right,Pace,Medium
+Washington Sundar,Right arm Offbreak,Left hand Bat,Bowling Allrounder,1186,Right,Spin,Offbreak
+YK Pathan,Right arm Offbreak,Right hand Bat,Allrounder,1184,Right,Spin,Offbreak
+M Kartik,Slow Left arm Orthodox,Left hand Bat,Bowler,1182,Left,Spin,Left-arm orthodox
+A Nortje,Right arm Fast,Right hand Bat,Bowler,1169,Right,Pace,Fast
+LH Ferguson,Right arm Fast,Right hand Bat,Bowler,1148,Right,Pace,Fast
+Noor Ahmad,Left arm Wrist spin,Right hand Bat,Bowler,1141,Left,Spin,Left-arm wrist spin
+SB Jakati,Slow Left arm Orthodox,Left hand Bat,Bowler,1101,Left,Spin,Left-arm orthodox
+M Jansen,Left arm Fast,Right hand Bat,Bowling Allrounder,1081,Left,Pace,Fast
+VR Aaron,Right arm Fast,Right hand Bat,Bowler,1065,Right,Pace,Fast
+GJ Maxwell,Right arm Offbreak,Right hand Bat,Batting Allrounder,1047,Right,Spin,Offbreak
+S Gopal,Legbreak,Right hand Bat,Allrounder,1000,Right,Spin,Legbreak
+A Kumble,Legbreak Googly,Right hand Bat,Bowler,983,Right,Spin,Legbreak
+MC Henriques,Right arm Fast medium,Right hand Bat,Allrounder,979,Right,Pace,Fast-medium
+MP Stoinis,Right arm Medium,Right hand Bat,Batting Allrounder,975,Right,Pace,Medium
+S Sreesanth,Right arm Fast medium,Right hand Bat,Bowler,947,Right,Pace,Fast-medium
+Iqbal Abdulla,Slow Left arm Orthodox,Left hand Bat,Allrounder,943,Left,Spin,Left-arm orthodox
+R Sharma,Legbreak Googly,Right hand Bat,Bowler,935,Right,Spin,Legbreak
+VG Arora,Right arm Fast medium,Right hand Bat,Bowler,931,Right,Pace,Fast-medium
+SK Raina,Right arm Offbreak,Left hand Bat,Middle order Batter,930,Right,Spin,Offbreak
+MS Gony,Right arm Medium,Right hand Bat,Bowler,925,Right,Pace,Medium
+DT Christian,Right arm Fast medium,Right hand Bat,Allrounder,922,Right,Pace,Fast-medium
+Yash Dayal,Left arm Medium fast,Right hand Bat,Bowler,920,Left,Pace,Medium-fast
+B Lee,Right arm Fast,Right hand Bat,Bowler,916,Right,Pace,Fast
+PJ Sangwan,Left arm Medium,Right hand Bat,Bowler,905,Left,Pace,Medium
+M Theekshana,Right arm Offbreak,Right hand Bat,Bowler,902,Right,Spin,Offbreak
+M Ashwin,Legbreak Googly,Right hand Bat,Bowler,898,Right,Spin,Legbreak
+NM Coulter-Nile,Right arm Fast,Right hand Bat,Bowling Allrounder,892,Right,Pace,Fast
+Yuvraj Singh,Slow Left arm Orthodox,Left hand Bat,Middle order Batter,882,Left,Spin,Left-arm orthodox
+Mukesh Kumar,Right arm Medium,Right hand Bat,Bowler,879,Right,Pace,Medium
+Harpreet Brar,Slow Left arm Orthodox,Left hand Bat,Bowler,875,Left,Spin,Left-arm orthodox
+MM Ali,Right arm Offbreak,Left hand Bat,Batting Allrounder,869,Right,Spin,Offbreak
+R Tewatia,Legbreak,Left hand Bat,Bowling Allrounder,866,Right,Spin,Legbreak
+RJ Harris,Right arm Fast,Right hand Bat,Bowler,865,Right,Pace,Fast
+Suyash Sharma,Legbreak Googly,Right hand Bat,Bowler,822,Right,Spin,Legbreak
+AB Agarkar,Right arm Fast,Right hand Bat,Bowler,820,Right,Pace,Fast
+PWH de Silva,Legbreak,Right hand Bat,Allrounder,808,Right,Spin,Legbreak
+AD Mathews,Right arm Medium,Right hand Bat,Allrounder,807,Right,Pace,Medium
+M Pathirana,Right arm Medium,Right hand Bat,Bowler,797,Right,Pace,Medium
+S Aravind,Left arm Medium fast,Left hand Bat,Bowler,788,Left,Pace,Medium-fast
+DL Vettori,Slow Left arm Orthodox,Left hand Bat,Allrounder,785,Left,Spin,Left-arm orthodox
+Kartik Tyagi,Right arm Fast,Right hand Bat,Bowler,775,Right,Pace,Fast
+P Awana,Right arm Medium,Right hand Bat,Bowler,774,Right,Pace,Medium
+M Markande,Legbreak,Right hand Bat,Bowler,768,Right,Spin,Legbreak
+WD Parnell,Left arm Medium fast,Left hand Bat,Bowler,758,Left,Pace,Medium-fast
+P Negi,Slow Left arm Orthodox,Left hand Bat,Bowler,733,Left,Spin,Left-arm orthodox
+BA Stokes,Right arm Fast medium,Left hand Bat,Allrounder,723,Right,Pace,Fast-medium
+CJ Jordan,Right arm Fast medium,Right hand Bat,Bowler,717,Right,Pace,Fast-medium
+NLTC Perera,Right arm Medium fast,Left hand Bat,Bowling Allrounder,715,Right,Pace,Medium-fast
+AJ Tye,Right arm Medium fast,Right hand Bat,Bowler,714,Right,Pace,Medium-fast
+J Botha,Right arm Offbreak,Right hand Bat,Allrounder,709,Right,Spin,Offbreak
+MJ Santner,Slow Left arm Orthodox,Left hand Bat,Bowling Allrounder,704,Left,Spin,Left-arm orthodox
+Navdeep Saini,Right-arm fast,Right-hand bat,Bowler,701,Right,Pace,Fast
+JP Duminy,Right arm Offbreak,Left hand Bat,Batting Allrounder,701,Right,Spin,Offbreak
+R Dhawan,Right arm Medium fast,Right hand Bat,Allrounder,693,Right,Pace,Medium-fast
+DP Nannes,Left arm Fast,Right hand Bat,Bowler,689,Left,Pace,Fast
+Shivam Mavi,Right arm Fast medium,Right hand Bat,Bowler,687,Right,Pace,Fast-medium
+Harshit Rana,Right arm Medium fast,Right hand Bat,Bowler,679,Right,Pace,Medium-fast
+Mohsin Khan,Left arm Medium fast,Left hand Bat,,678,Left,Pace,Medium-fast
+Shahbaz Ahmed,Slow Left arm Orthodox,Left hand Bat,Allrounder,675,Left,Spin,Left-arm orthodox
+PV Tambe,Legbreak,Right hand Bat,Bowler,674,Right,Spin,Legbreak
+L Ngidi,Right arm Fast medium,Right hand Bat,Bowler,645,Right,Pace,Fast-medium
+STR Binny,Right arm Medium,Right hand Bat,Allrounder,611,Right,Pace,Medium
+C Green,Right arm Fast medium,Right hand Bat,Batting Allrounder,603,Right,Pace,Fast-medium
+DE Bollinger,Left arm Fast medium,Left hand Bat,Bowler,600,Left,Pace,Fast-medium
+KK Cooper,Right arm Medium,Right hand Bat,Allrounder,600,Right,Pace,Medium
+K Gowtham,Right arm Offbreak,Right hand Bat,Bowling Allrounder,599,Right,Spin,Offbreak
+MR Marsh,Right arm Medium,Right hand Bat,Allrounder,593,Right,Pace,Medium
+CH Gayle,Right arm Offbreak,Left hand Bat,Allrounder,584,Right,Spin,Offbreak
+Harmeet Singh,Right arm Medium,Right hand Bat,Bowler,574,Right,Pace,Medium
+AS Rajpoot,Right arm Medium,Right hand Bat,Bowler,567,Right,Pace,Medium
+DS Rathi,Unknown,Unknown,Unknown,561,Unknown,Unknown,Unknown
+DR Smith,Right arm Medium,Right hand Bat,Allrounder,557,Right,Pace,Medium
+Azhar Mahmood,Right arm Fast medium,Right hand Bat,Bowling Allrounder,552,Right,Pace,Fast-medium
+Vijaykumar Vyshak,Right arm Medium,Right hand Bat,Bowler,550,Right,Pace,Medium
+A Symonds,"Right arm Medium, Right arm Offbreak",Right hand Bat,Allrounder,540,Right,Pace,Medium
+Basil Thampi,Right arm Fast medium,Right hand Bat,Bowler,539,Right,Pace,Fast-medium
+SW Tait,Right arm Fast,Right hand Bat,Bowler,534,Right,Pace,Fast
+Umran Malik,Right arm Fast,Right hand Bat,Bowler,519,Right,Pace,Fast
+Rasikh Salam,Right arm Medium,Right hand Bat,Bowler,517,Right,Pace,Medium
+BB Sran,Left arm Medium,Left hand Bat,Bowler,516,Left,Pace,Medium
+E Malinga,Right-arm fast-medium,Left-hand bat,,516,Right,Pace,Fast-medium
+A Kamboj,Right arm Medium,Right hand Bat,Allrounder,513,Right,Pace,Medium
+Mukesh Choudhary,Left arm Medium,Left hand Bat,Bowler,512,Left,Pace,Medium
+Yash Thakur,Right arm Medium,Right hand Bat,,501,Right,Pace,Medium
+A Singh,Right arm Medium fast,Right hand Bat,Bowler,486,Right,Pace,Medium-fast
+C Sakariya,Left arm Medium fast,Left hand Bat,Bowler,479,Left,Pace,Medium-fast
+R Sai Kishore,Slow Left arm Orthodox,Left hand Bat,Bowler,477,Left,Spin,Left-arm orthodox
+A Zampa,Legbreak Googly,Right hand Bat,Bowler,475,Right,Spin,Legbreak
+Prince Yadav,Right-arm fast,Right-hand bat,,475,Right,Pace,Fast
+IC Pandey,Right arm Medium,Right hand Bat,Bowler,469,Right,Pace,Medium
+GB Hogg,Left arm Wrist spin,Left hand Bat,Allrounder,466,Left,Spin,Left-arm wrist spin
+Mujeeb Ur Rahman,Right arm Offbreak,Right hand Bat,Bowler,465,Right,Spin,Offbreak
+CR Woakes,Right arm Fast medium,Right hand Bat,Allrounder,463,Right,Pace,Fast-medium
+RE van der Merwe,Slow Left arm Orthodox,Right hand Bat,Allrounder,455,Left,Spin,Left-arm orthodox
+AS Joseph,Right arm Fast,Right hand Bat,Bowler,454,Right,Pace,Fast
+RR Powar,Right arm Offbreak,Right hand Bat,Bowler,443,Right,Spin,Offbreak
+MF Maharoof,Right arm Fast medium,Right hand Bat,Allrounder,441,Right,Pace,Fast-medium
+Bipul Sharma,Slow Left arm Orthodox,Left hand Bat,Allrounder,436,Left,Spin,Left-arm orthodox
+J Suchith,Slow Left arm Orthodox,Left hand Bat,Bowler,434,Left,Spin,Left-arm orthodox
+Anureet Singh,Right arm Medium,Right hand Bat,Bowler,430,Right,Pace,Medium
+PVD Chameera,Right arm Fast,Right hand Bat,Bowler,420,Right,Pace,Fast
+Mohammad Nabi,Right arm Offbreak,Right hand Bat,Allrounder,419,Right,Spin,Offbreak
+RP Meredith,Right arm Fast,Right hand Bat,Bowler,415,Right,Pace,Fast
+Naveen-ul-Haq,Right arm Medium fast,Right hand Bat,Bowler,407,Right,Pace,Medium-fast
+Arshad Khan,Right arm Offbreak,Right hand Bat,Bowler,400,Right,Spin,Offbreak
+J Yadav,Right arm Offbreak,Right hand Bat,Bowler,398,Right,Spin,Offbreak
+DJ Hooda,Right arm Offbreak,Right hand Bat,Allrounder,391,Right,Spin,Offbreak
+BW Hilfenhaus,Right arm Fast medium,Right hand Bat,Bowler,390,Right,Pace,Fast-medium
+NT Ellis,Right arm Fast medium,Right hand Bat,Bowler,390,Right,Pace,Fast-medium
+DR Sams,Left arm Fast medium,Right hand Bat,Allrounder,389,Left,Pace,Fast-medium
+N Burger,Left arm Medium fast,Left hand Bat,Bowling Allrounder,383,Left,Pace,Medium-fast
+R Shepherd,Right arm Fast medium,Right hand Bat,Bowling Allrounder,381,Right,Pace,Fast-medium
+JP Behrendorff,Left arm Fast medium,Right hand Bat,Bowler,379,Left,Pace,Fast-medium
+Akash Madhwal,Right arm Medium fast,Right hand Bat,Bowler,376,Right,Pace,Medium-fast
+Ankit Sharma,Slow Left arm Orthodox,Left hand Bat,Bowler,375,Left,Spin,Left-arm orthodox
+Abhishek Sharma,Slow Left arm Orthodox,Left hand Bat,Allrounder,374,Left,Spin,Left-arm orthodox
+R McLaren,Right arm Medium fast,Left hand Bat,Allrounder,372,Right,Pace,Medium-fast
+VRV Singh,Right arm Medium fast,Right hand Bat,,371,Right,Pace,Medium-fast
+Azmatullah Omarzai,Right arm Medium fast,Right hand Bat,Allrounder,369,Right,Pace,Medium-fast
+JR Hopes,Right arm Medium,Right hand Bat,Allrounder,369,Right,Pace,Medium
+AN Ahmed,Right arm Medium fast,Right hand Bat,Bowler,362,Right,Pace,Medium-fast
+VY Mahesh,Right arm Medium fast,Right hand Bat,Allrounder,359,Right,Pace,Medium-fast
+AS Roy,Slow Left arm Orthodox,Left hand Bat,Allrounder,351,Left,Spin,Left-arm orthodox
+Nithish Kumar Reddy,Right arm Medium fast,Right hand Bat,Batting Allrounder,349,Right,Pace,Medium-fast
+RG Sharma,Right arm Offbreak,Right hand Bat,Top order Batter,349,Right,Spin,Offbreak
+KW Richardson,Right arm Fast medium,Right hand Bat,Bowler,345,Right,Pace,Fast-medium
+R Parag,Legbreak,Right hand Bat,Top order Batter,334,Right,Spin,Legbreak
+GD McGrath,Right arm Fast medium,Right hand Bat,Bowler,329,Right,Pace,Fast-medium
+AC Thomas,Right arm Fast medium,Right hand Bat,Bowler,327,Right,Pace,Fast-medium
+LR Shukla,Right arm Medium,Right hand Bat,Allrounder,326,Right,Pace,Medium
+DJ Hussey,Right arm Offbreak,Right hand Bat,Allrounder,323,Right,Spin,Offbreak
+LS Livingstone,Legbreak,Right hand Bat,Batting Allrounder,321,Right,Spin,Legbreak
+KA Jamieson,Right arm Fast medium,Right hand Bat,Bowler,315,Right,Pace,Fast-medium
+CJ Anderson,Left arm Medium fast,Left hand Bat,Batting Allrounder,315,Left,Pace,Medium-fast
+A Mithun,Right arm Medium,Right hand Bat,Bowler,312,Right,Pace,Medium
+Pankaj Singh,Right arm Medium fast,Right hand Bat,Bowler,311,Right,Pace,Medium-fast
+AD Mascarenhas,Right arm Fast medium,Right hand Bat,Allrounder,310,Right,Pace,Fast-medium
+D Wiese,Right arm Medium fast,Right hand Bat,Allrounder,307,Right,Pace,Medium-fast
+SJ Srivastava,Left arm Fast medium,Right hand Bat,Bowler,306,Left,Pace,Fast-medium
+BA Bhatt,Slow Left arm Orthodox,Left hand Bat,Bowler,303,Left,Spin,Left-arm orthodox
+Akash Deep,Right arm Fast medium,Right hand Bat,Bowling Allrounder,302,Right,Pace,Fast-medium
+V Nigam,Legbreak,Right-hand bat,,301,Right,Spin,Legbreak
+ST Jayasuriya,Slow Left arm Orthodox,Left hand Bat,Allrounder,301,Left,Spin,Left-arm orthodox
+Brijesh Sharma,Unknown,Unknown,Unknown,297,Unknown,Unknown,Unknown
+Lalit Yadav,Right arm Offbreak,Right hand Bat,Allrounder,294,Right,Spin,Offbreak
+G Coetzee,Right arm Fast,Right hand Bat,Bowler,292,Right,Pace,Fast
+K Kartikeya,"Slow Left arm Orthodox, Left arm Wrist spin",Right hand Bat,Bowler,290,Left,Spin,Left-arm orthodox
+WPUJC Vaas,Left arm Fast medium,Left hand Bat,Bowler,288,Left,Pace,Fast-medium
+BCJ Cutting,Right arm Fast medium,Right hand Bat,Allrounder,288,Right,Pace,Fast-medium
+SM Pollock,Right arm Fast medium,Right hand Bat,Allrounder,280,Right,Pace,Fast-medium
+SC Ganguly,Right arm Medium,Left hand Bat,Batter,280,Right,Pace,Medium
+R Rampaul,Right arm Fast medium,Left hand Bat,Bowler,278,Right,Pace,Fast-medium
+TM Dilshan,Right arm Offbreak,Right hand Bat,Allrounder,275,Right,Spin,Offbreak
+Sakib Hussain,Right arm Medium,Right hand Bat,,274,Right,Pace,Medium
+Joginder Sharma,Right arm Fast medium,Right hand Bat,Allrounder,272,Right,Pace,Fast-medium
+A Ashish Reddy,Right arm Medium,Right hand Bat,Allrounder,270,Right,Pace,Medium
+XC Bartlett,Right arm Fast medium,Right hand Bat,Bowler,269,Right,Pace,Fast-medium
+AG Murtaza,Slow Left arm Orthodox,Left hand Bat,Bowler,269,Left,Spin,Left-arm orthodox
+Fazalhaq Farooqi,Left arm Fast medium,Right hand Bat,Bowler,266,Left,Pace,Fast-medium
+CR Brathwaite,Right arm Fast medium,Right hand Bat,Allrounder,266,Right,Pace,Fast-medium
+Sohail Tanvir,Left arm Medium fast,Left hand Bat,Bowler,265,Left,Pace,Medium-fast
+V Kohli,Right arm Medium,Right hand Bat,Top order Batter,264,Right,Pace,Medium
+S Badree,Legbreak,Right hand Bat,Bowler,263,Right,Spin,Legbreak
+V Shankar,Right arm Medium,Right hand Bat,Allrounder,258,Right,Pace,Medium
+Simarjeet Singh,Right arm Medium fast,Right hand Bat,Bowler,256,Right,Pace,Medium-fast
+Akash Singh,Left arm Medium fast,Right hand Bat,Bowler,256,Left,Pace,Medium-fast
+AA Chavan,Slow Left arm Orthodox,Left hand Bat,Batter,255,Left,Spin,Left-arm orthodox
+KR Sen,Right arm Fast,Right hand Bat,Bowler,255,Right,Pace,Fast
+TK Curran,Right arm Fast medium,Right hand Bat,Bowling Allrounder,252,Right,Pace,Fast-medium
+CRD Fernando,Right arm Fast medium,Right hand Bat,Bowler,249,Right,Pace,Fast-medium
+BAW Mendis,Right arm Offbreak,Right hand Bat,Bowler,248,Right,Spin,Offbreak
+DJG Sammy,Right arm Medium,Right hand Bat,Allrounder,244,Right,Pace,Medium
+JDP Oram,Right arm Fast medium,Left hand Bat,Allrounder,244,Right,Pace,Fast-medium
+SH Johnson,Left arm Fast medium,Left hand Bat,Bowler,243,Left,Pace,Fast-medium
+JD Ryder,Right arm Medium,Left hand Bat,Allrounder,241,Right,Pace,Medium
+Shivang Kumar,Unknown,Unknown,Unknown,240,Unknown,Unknown,Unknown
+AM Nayar,Right arm Medium,Left hand Bat,Allrounder,239,Right,Pace,Medium
+BJ Hodge,Right arm Offbreak,Right hand Bat,Top order Batter,238,Right,Spin,Offbreak
+AF Milne,Right arm Fast,Right hand Bat,Bowler,238,Right,Pace,Fast
+AM Ghazanfar,Right-arm offbreak,Right-hand bat,,237,Right,Spin,Offbreak
+J Little,Left arm Fast medium,Right hand Bat,Bowler,236,Left,Pace,Fast-medium
+J Theron,Right arm Medium fast,Right hand Bat,Bowler,235,Right,Pace,Medium-fast
+A Chandila,Right arm Offbreak,Right hand Bat,Allrounder,234,Right,Spin,Offbreak
+MP Yadav,Right arm Medium fast,Right hand Bat,Bowler,230,Right,Pace,Medium-fast
+AK Markram,Right arm Offbreak,Right hand Bat,Opening Batter,230,Right,Spin,Offbreak
+C de Grandhomme,Right arm Medium fast,Right hand Bat,Allrounder,230,Right,Pace,Medium-fast
+KC Cariappa,Legbreak,Right hand Bat,Bowler,224,Right,Spin,Legbreak
+N Rana,"Right arm Medium, Right arm Offbreak",Left hand Bat,Middle order Batter,223,Right,Pace,Medium
+JDS Neesham,Right arm Medium fast,Left hand Bat,Batting Allrounder,222,Right,Pace,Medium-fast
+SB Styris,Right arm Medium,Right hand Bat,Allrounder,222,Right,Pace,Medium
+JL Pattinson,Right arm Fast medium,Left hand Bat,Bowler,222,Right,Pace,Fast-medium
+YA Abdulla,Left arm Fast medium,Left hand Bat,Bowler,222,Left,Pace,Fast-medium
+KP Appanna,Slow Left arm Orthodox,Right hand Bat,,222,Left,Spin,Left-arm orthodox
+Y Venugopal Rao,Right arm Offbreak,Right hand Bat,Middle order Batter,222,Right,Spin,Offbreak
+DJ Willey,Left arm Fast medium,Left hand Bat,Bowling Allrounder,221,Left,Pace,Fast-medium
+S Tyagi,Right arm Medium,Right hand Bat,Bowler,220,Right,Pace,Medium
+MN Samuels,Right arm Offbreak,Right hand Bat,Top order Batter,219,Right,Spin,Offbreak
+TS Mills,Left arm Fast,Right hand Bat,Bowler,218,Left,Pace,Fast
+J Overton,Right arm Fast,Right hand Bat,Bowling Allrounder,217,Right,Pace,Fast
+RS Bopara,Right arm Medium,Right hand Bat,Batting Allrounder,213,Right,Pace,Medium
+M Ntini,Right arm Fast,Right hand Bat,Bowler,213,Right,Pace,Fast
+HR Shokeen,Right arm Offbreak,Right hand Bat,Bowler,213,Right,Spin,Offbreak
+Karanveer Singh,Legbreak Googly,Right hand Bat,,213,Right,Spin,Legbreak
+VS Malik,Right arm Medium,Right hand Bat,Bowler,212,Right,Pace,Medium
+S Lamichhane,Legbreak Googly,Right hand Bat,Bowler,211,Right,Spin,Legbreak
+V Pratap Singh,Right arm Medium,Right hand Bat,,211,Right,Pace,Medium
+S Kaushik,Left arm Wrist spin,Right hand Bat,Bowler,210,Left,Spin,Left-arm wrist spin
+Zeeshan Ansari,Legbreak Googly,Right hand Bat,,209,Right,Spin,Legbreak
+WG Jacks,Right arm Offbreak,Right hand Bat,Batter,203,Right,Spin,Offbreak
+Parvez Rasool,Right arm Offbreak,Right hand Bat,Bowling Allrounder,200,Right,Spin,Offbreak
+Harsh Dubey,Slow Left arm Orthodox,Left hand Bat,,200,Left,Spin,Left-arm orthodox
+Mohammad Asif,Right arm Fast medium,Left hand Bat,Bowler,199,Right,Pace,Fast-medium
+N Thushara,Right arm Medium fast,Right hand Bat,Bowler,198,Right,Pace,Medium-fast
+J Syed Mohammad,Slow Left arm Orthodox,Left hand Bat,Bowler,196,Left,Spin,Left-arm orthodox
+Ashwani Kumar,Left arm Medium,Left hand Bat,,196,Left,Pace,Medium
+SMSM Senanayake,Right arm Offbreak,Right hand Bat,Bowler,195,Right,Spin,Offbreak
+M Siddharth,Slow Left arm Orthodox,Right hand Bat,Bowler,193,Left,Spin,Left-arm orthodox
+B Akhil,Right arm Medium fast,Right hand Bat,Bowler,193,Right,Pace,Medium-fast
+SE Bond,Right arm Fast,Right hand Bat,Bowler,191,Right,Pace,Fast
+AB McDonald,Right arm Fast medium,Right hand Bat,Allrounder,188,Right,Pace,Fast-medium
+Yash Raj Punja,Unknown,Unknown,Unknown,186,Unknown,Unknown,Unknown
+KL Nagarkoti,Right arm Fast,Right hand Bat,Bowler,185,Right,Pace,Fast
+Shahid Afridi,Legbreak Googly,Right hand Bat,Allrounder,185,Right,Spin,Legbreak
+IS Sodhi,Legbreak,Right hand Bat,Bowler,182,Right,Spin,Legbreak
+I Udana,Left arm Medium fast,Right hand Bat,Allrounder,182,Left,Pace,Medium-fast
+KP Pietersen,Right arm Offbreak,Right hand Bat,Top order Batter,180,Right,Spin,Offbreak
+KMA Paul,Right arm Fast medium,Right hand Bat,Allrounder,180,Right,Pace,Fast-medium
+S Randiv,Right arm Offbreak,Right hand Bat,Bowler,180,Right,Spin,Offbreak
+OC McCoy,Left arm Fast medium,Left hand Bat,Bowler,180,Left,Pace,Fast-medium
+B Laughlin,Right arm Fast medium,Right hand Bat,Bowler,179,Right,Pace,Fast-medium
+Kamran Khan,Left arm Medium fast,Left hand Bat,Bowler,177,Left,Pace,Medium-fast
+S Sandeep Warrier,Right arm Medium,Right hand Bat,Bowler,176,Right,Pace,Medium
+AJ Hosein,Slow Left arm Orthodox,Left hand Bat,Bowler,175,Left,Spin,Left-arm orthodox
+C Bosch,Right arm Fast medium,Right hand Bat,Allrounder,171,Right,Pace,Fast-medium
+HF Gurney,Left arm Fast medium,Right hand Bat,Bowler,169,Left,Pace,Fast-medium
+PP Hinge,Unknown,Unknown,Unknown,168,Unknown,Unknown,Unknown
+MJ Henry,Right arm Fast medium,Right hand Bat,Bowler,166,Right,Pace,Fast-medium
+D Pretorius,Right arm Medium fast,Right hand Bat,Bowling Allrounder,166,Right,Pace,Medium-fast
+CK Langeveldt,Right arm Fast medium,Right hand Bat,Bowler,165,Right,Pace,Fast-medium
+Swapnil Singh,Slow Left arm Orthodox,Right hand Bat,Bowler,165,Left,Spin,Left-arm orthodox
+K Khejroliya,Left arm Medium fast,Left hand Bat,Bowler,163,Left,Pace,Medium-fast
+S Dube,Right arm Medium,Left hand Bat,Allrounder,162,Right,Pace,Medium
+Anand Rajan,Right arm Medium,Right hand Bat,Bowler,162,Right,Pace,Medium
+Gurjapneet Singh,Unknown,Unknown,Unknown,159,Unknown,Unknown,Unknown
+P Parameswaran,Left arm Medium,Right hand Bat,,159,Left,Pace,Medium
+DP Vijaykumar,Right arm Medium,Right hand Bat,,159,Right,Pace,Medium
+BE Hendricks,Left arm Fast medium,Left hand Bat,Bowler,157,Left,Pace,Fast-medium
+AM Salvi,Right arm Medium,Right hand Bat,Bowler,156,Right,Pace,Medium
+JA Duffy,Right arm Fast medium,Right hand Bat,Bowler,156,Right,Pace,Fast-medium
+JEC Franklin,Left arm Medium,Left hand Bat,Allrounder,155,Left,Pace,Medium
+LE Plunkett,Right arm Fast,Right hand Bat,Bowler,154,Right,Pace,Fast
+PC Valthaty,Right arm Medium,Right hand Bat,Batter,153,Right,Pace,Medium
+Umar Gul,Right arm Fast medium,Right hand Bat,Bowler,153,Right,Pace,Fast-medium
+SB Bangar,Right arm Medium fast,Right hand Bat,,153,Right,Pace,Medium-fast
+TL Suman,Right arm Offbreak,Right hand Bat,Batter,152,Right,Spin,Offbreak
+FH Edwards,Right arm Fast,Right hand Bat,Bowler,150,Right,Pace,Fast
+B Stanlake,Right arm Fast,Left hand Bat,Bowler,150,Right,Pace,Fast
+GC Viljoen,Right arm Fast,Right hand Bat,Bowler,146,Right,Pace,Fast
+Yudhvir Singh,Right arm Medium fast,Right hand Bat,Bowler,145,Right,Pace,Medium-fast
+RR Raje,Right arm Fast medium,Right hand Bat,,144,Right,Pace,Fast-medium
+T Thushara,Left arm Fast medium,Left hand Bat,Bowler,144,Left,Pace,Fast-medium
+R Sathish,Right arm Medium,Right hand Bat,Allrounder,144,Right,Pace,Medium
+KM Asif,Right arm Medium,Right hand Bat,Bowler,143,Right,Pace,Medium
+S Ladda,Legbreak,Right hand Bat,Bowler,141,Right,Spin,Legbreak
+Mayank Dagar,Slow Left arm Orthodox,Right hand Bat,Bowler,138,Left,Spin,Left-arm orthodox
+V Sehwag,Right arm Offbreak,Right hand Bat,Top order Batter,138,Right,Spin,Offbreak
+Ashok Sharma,Unknown,Unknown,Unknown,136,Unknown,Unknown,Unknown
+P Amarnath,Right arm Medium,Right hand Bat,,132,Right,Pace,Medium
+SS Cottrell,Left arm Fast medium,Right hand Bat,Bowler,131,Left,Pace,Fast-medium
+R Shukla,Right arm Medium,Right hand Bat,Bowler,130,Right,Pace,Medium
+MA Wood,Right arm Fast,Right hand Bat,Bowler,127,Right,Pace,Fast
+RJW Topley,Left arm Fast medium,Right hand Bat,Bowler,125,Left,Pace,Fast-medium
+JE Taylor,Right arm Fast,Right hand Bat,Bowler,122,Right,Pace,Fast
+T Shamsi,Left arm Wrist spin,Right hand Bat,Bowler,120,Left,Spin,Left-arm wrist spin
+M de Lange,Right arm Fast,Right hand Bat,Bowler,116,Right,Pace,Fast
+Shivam Sharma,Right arm Offbreak,Right hand Bat,,114,Right,Spin,Offbreak
+S Narwal,Right arm Medium,Left hand Bat,Allrounder,113,Right,Pace,Medium
+AL Menaria,Slow Left arm Orthodox,Left hand Bat,Allrounder,113,Left,Spin,Left-arm orthodox
+Ankit Soni,Legbreak,Right hand Bat,Allrounder,112,Right,Spin,Legbreak
+Jaskaran Singh,Right arm Medium,Right hand Bat,Bowler,111,Right,Pace,Medium
+A Choudhary,Left arm Medium,Right hand Bat,Bowler,108,Left,Pace,Medium
+SB Wagh,Left arm Medium fast,Left hand Bat,Allrounder,108,Left,Pace,Medium-fast
+P Sahu,Legbreak Googly,Right hand Bat,Allrounder,107,Right,Spin,Legbreak
+P Suyal,Left arm Medium,Right hand Bat,Bowler,107,Left,Pace,Medium
+Arjun Tendulkar,Left arm Medium fast,Left hand Bat,Bowler,107,Left,Pace,Medium-fast
+KMDN Kulasekara,Right arm Fast medium,Right hand Bat,Bowler,107,Right,Pace,Fast-medium
+Shoaib Ahmed,Right arm Fast medium,Right hand Bat,,103,Right,Pace,Fast-medium
+KJ Abbott,Right arm Fast medium,Right hand Bat,Bowler,102,Right,Pace,Fast-medium
+GHS Garton,Left arm Fast,Left hand Bat,Bowling Allrounder,97,Left,Pace,Fast
+RV Gomez,Right arm Medium,Right hand Bat,Allrounder,97,Right,Pace,Medium
+OF Smith,Right arm Fast medium,Right hand Bat,Bowling Allrounder,95,Right,Pace,Fast-medium
+MK Lomror,Slow Left arm Orthodox,Left hand Bat,Allrounder,94,Left,Spin,Left-arm orthodox
+JA Richardson,Right arm Fast,Right hand Bat,Bowler,94,Right,Pace,Fast
+Shashank Singh,"Right arm Medium, Right arm Offbreak",Right hand Bat,Batting Allrounder,93,Right,Pace,Medium
+FA Allen,Slow Left arm Orthodox,Right hand Bat,Bowling Allrounder,91,Left,Spin,Left-arm orthodox
+PD Collingwood,Right arm Medium,Right hand Bat,Allrounder,90,Right,Pace,Medium
+Raghu Sharma,Legbreak Googly,Right hand Bat,,90,Right,Spin,Legbreak
+DG Nalkande,Right arm Fast medium,Right hand Bat,Bowler,89,Right,Pace,Fast-medium
+Sikandar Raza,Right arm Offbreak,Right hand Bat,Batting Allrounder,88,Right,Spin,Offbreak
+AA Jhunjhunwala,Right arm Offbreak,Right hand Bat,Batter,88,Right,Spin,Offbreak
+SR Dubey,Unknown,Unknown,Unknown,87,Unknown,Unknown,Unknown
+Auqib Nabi,Right arm Medium,Right hand Bat,,84,Right,Pace,Medium
+VR Iyer,Right arm Medium,Left hand Bat,Allrounder,84,Right,Pace,Medium
+Gagandeep Singh,Right arm Medium fast,Right hand Bat,,84,Right,Pace,Medium-fast
+DJ Muthuswami,Right arm Medium,Right hand Bat,,84,Right,Pace,Medium
+RN ten Doeschate,Right arm Medium fast,Right hand Bat,Allrounder,83,Right,Pace,Medium-fast
+Gurkeerat Singh,Right arm Offbreak,Right hand Bat,Middle order Batter,82,Right,Spin,Offbreak
+P Dubey,Legbreak Googly,Right hand Bat,Bowler,79,Right,Spin,Legbreak
+JJ van der Wath,Right arm Medium fast,Right hand Bat,Allrounder,76,Right,Pace,Medium-fast
+WA Mota,Right arm Medium,Right hand Bat,,75,Right,Pace,Medium
+LJ Wright,Right arm Medium,Right hand Bat,Top order Batter,75,Right,Pace,Medium
+M Tiwari,Unknown,Unknown,Unknown,75,Unknown,Unknown,Unknown
+TP Sudhindra,Right arm Fast,Left hand Bat,,74,Right,Pace,Fast
+RJ Gleeson,Right arm Fast medium,Right hand Bat,Bowler,73,Right,Pace,Fast-medium
+V Puthur,Unknown,Unknown,Unknown,73,Unknown,Unknown,Unknown
+AP Dole,Right arm Medium fast,Right hand Bat,Bowler,73,Right,Pace,Medium-fast
+Y Nagar,Right arm Offbreak,Right hand Bat,Allrounder,72,Right,Spin,Offbreak
+KT Maphaka,Left-arm fast,Left-hand bat,,71,Left,Pace,Fast
+DNT Zoysa,Left arm Fast medium,Left hand Bat,Bowler,69,Left,Pace,Fast-medium
+SM Harwood,Right arm Fast medium,Right hand Bat,Bowler,67,Right,Pace,Fast-medium
+K Goel,Right arm Offbreak,Left hand Bat,Opening Batter,67,Right,Spin,Offbreak
+Ramandeep Singh,Right arm Medium,Right hand Bat,Middle order Batter,66,Right,Pace,Medium
+MG Bracewell,Right arm Offbreak,Left hand Bat,Batting Allrounder,66,Right,Spin,Offbreak
+A Flintoff,Right arm Fast medium,Right hand Bat,Allrounder,66,Right,Pace,Fast-medium
+MJ Clarke,Slow Left arm Orthodox,Right hand Bat,Middle order Batter,66,Left,Spin,Left-arm orthodox
+W O'Rourke,Right arm Fast medium,Right hand Bat,,64,Right,Pace,Fast-medium
+TM Head,Right arm Offbreak,Left hand Bat,Middle order Batter,64,Right,Spin,Offbreak
+O Thomas,Right arm Fast,Left hand Bat,Bowler,63,Right,Pace,Fast
+Mohammad Hafeez,Right arm Offbreak,Right hand Bat,Allrounder,63,Right,Spin,Offbreak
+JW Hastings,Right arm Fast medium,Right hand Bat,Allrounder,61,Right,Pace,Fast-medium
+Abhinandan Singh,Unknown,Unknown,Unknown,60,Unknown,Unknown,Unknown
+AU Rashid,Legbreak,Right hand Bat,Bowler,60,Right,Spin,Legbreak
+V Viyaskanth,Legbreak,Right hand Bat,Bowler,60,Right,Spin,Legbreak
+SA Abbott,Right arm Fast medium,Right hand Bat,Allrounder,59,Right,Pace,Fast-medium
+Abdul Samad,Legbreak,Right hand Bat,Batter,58,Right,Spin,Legbreak
+Shoaib Malik,Right arm Offbreak,Right hand Bat,Allrounder,58,Right,Spin,Offbreak
+ND Doshi,Slow Left arm Orthodox,Right hand Bat,Bowler,57,Left,Spin,Left-arm orthodox
+K Upadhyay,Right arm Medium,Right hand Bat,,56,Right,Pace,Medium
+AC Voges,Slow Left arm Orthodox,Right hand Bat,Top order Batter,56,Left,Spin,Left-arm orthodox
+SB Joshi,Slow Left arm Orthodox,Left hand Bat,Allrounder,55,Left,Spin,Left-arm orthodox
+K Yadav,Left arm Fast medium,Left hand Bat,Bowler,54,Left,Pace,Fast-medium
+Naman Dhir,Right-arm offbreak,Right-hand bat,,53,Right,Spin,Offbreak
+KAJ Roach,Right arm Fast medium,Right hand Bat,Bowler,52,Right,Pace,Fast-medium
+DJ Mitchell,Right arm Medium,Right hand Bat,Allrounder,51,Right,Pace,Medium
+K Santokie,Left arm Medium,Left hand Bat,Bowler,51,Left,Pace,Medium
+D Salunkhe,Legbreak,Right hand Bat,Bowler,51,Right,Spin,Legbreak
+C Nanda,Legbreak,Right hand Bat,,50,Right,Spin,Legbreak
+SC Kuggeleijn,Right arm Fast medium,Right hand Bat,Bowling Allrounder,50,Right,Pace,Fast-medium
+D Kalyankrishna,Right arm Medium fast,Right hand Bat,,50,Right,Pace,Medium-fast
+MJ Suthar,Slow Left arm Orthodox,Left hand Bat,,50,Left,Spin,Left-arm orthodox
+S Dhawan,Right arm Offbreak,Left hand Bat,Opening Batter,49,Right,Spin,Offbreak
+B Geeves,Right arm Fast medium,Right hand Bat,Bowler,49,Right,Pace,Fast-medium
+RJ Peterson,Slow Left arm Orthodox,Left hand Bat,Bowler,48,Left,Spin,Left-arm orthodox
+GS Sandhu,Right arm Fast medium,Left hand Bat,Bowler,48,Right,Pace,Fast-medium
+JM Kemp,Right arm Fast medium,Right hand Bat,Bowling Allrounder,47,Right,Pace,Fast-medium
+SS Mishra,Unknown,Unknown,Unknown,47,Unknown,Unknown,Unknown
+CL White,Legbreak Googly,Right hand Bat,Middle order Batter,46,Right,Spin,Legbreak
+SE Rutherford,Right arm Fast medium,Left hand Bat,Middle order Batter,46,Right,Pace,Fast-medium
+KR Mayers,Right arm Medium,Left hand Bat,Batting Allrounder,46,Right,Pace,Medium
+Shoaib Akhtar,Right arm Fast,Right hand Bat,Bowler,46,Right,Pace,Fast
+JPR Scantlebury-Searles,Right arm Fast medium,Right hand Bat,Bowling Allrounder,45,Right,Pace,Fast-medium
+L Ablish,Right arm Medium fast,Right hand Bat,Bowler,45,Right,Pace,Medium-fast
+MK Tiwary,Legbreak Googly,Right hand Bat,Batter,45,Right,Spin,Legbreak
+MW Short,Right arm Offbreak,Right hand Bat,Top order Batter,45,Right,Spin,Offbreak
+DJ Thornely,"Right arm Medium, Right arm Offbreak",Right hand Bat,Top order Batter,44,Right,Pace,Medium
+AJ Finch,Slow Left arm Orthodox,Right hand Bat,Top order Batter,44,Left,Spin,Left-arm orthodox
+B Muzarabani,Right arm Fast medium,Right hand Bat,Bowler,44,Right,Pace,Fast-medium
+GH Vihari,Right arm Offbreak,Right hand Bat,Batting Allrounder,43,Right,Spin,Offbreak
+RS Hangargekar,Right arm Medium,Right hand Bat,Bowling Allrounder,43,Right,Pace,Medium
+D du Preez,Right arm Fast medium,Right hand Bat,,43,Right,Pace,Fast-medium
+SM Boland,Right arm Fast medium,Right hand Bat,Bowler,43,Right,Pace,Fast-medium
+PHKD Mendis,"Right arm Offbreak, Slow Left arm Orthodox",Left hand Bat,Allrounder,42,Right,Spin,Offbreak
+M Manhas,Right arm Offbreak,Right hand Bat,Allrounder,42,Right,Spin,Offbreak
+LB Williams,Right arm Medium fast,Left hand Bat,Bowler,42,Right,Pace,Medium-fast
+CJ McKay,Right arm Fast medium,Right hand Bat,Bowler,42,Right,Pace,Fast-medium
+AUK Pathan,Right arm Medium,Right hand Bat,Bowler,41,Right,Pace,Medium
+A Badoni,Right arm Offbreak,Right hand Bat,Batter,41,Right,Spin,Offbreak
+MD Shanaka,Right arm Medium,Right hand Bat,Allrounder,38,Right,Pace,Medium
+A Uniyal,Left arm Medium,Left hand Bat,,38,Left,Pace,Medium
+L Wood,Left arm Fast medium,Left hand Bat,Bowling Allrounder,38,Left,Pace,Fast-medium
+SD Chitnis,Right arm Offbreak,Right hand Bat,Batter,38,Right,Spin,Offbreak
+M Vijay,Right arm Offbreak,Right hand Bat,Opening Batter,37,Right,Spin,Offbreak
+SSB Magala,Right arm Fast medium,Right hand Bat,Bowler,37,Right,Pace,Fast-medium
+RG More,Right arm Medium,Right hand Bat,Bowler,37,Right,Pace,Medium
+T Stubbs,Right arm Offbreak,Right hand Bat,Wicketkeeper Batter,37,Right,Spin,Offbreak
+SR Tendulkar,"Right arm Offbreak, Legbreak Googly",Right hand Bat,Top order Batter,37,Right,Spin,Offbreak
+GF Linde,Slow Left arm Orthodox,Left hand Bat,Allrounder,37,Left,Spin,Left-arm orthodox
+R Ninan,Right arm Offbreak,Right hand Bat,Allrounder,36,Right,Spin,Offbreak
+KA Maharaj,Slow Left arm Orthodox,Right hand Bat,Bowler,36,Left,Spin,Left-arm orthodox
+T Henderson,Right arm Fast medium,Right hand Bat,Bowler,36,Right,Pace,Fast-medium
+Krish Bhagat,Unknown,Unknown,Unknown,36,Unknown,Unknown,Unknown
+PH Solanki,Legbreak,Right hand Bat,Bowler,36,Right,Spin,Legbreak
+SZ Mulani,Slow Left arm Orthodox,Left hand Bat,Allrounder,33,Left,Spin,Left-arm orthodox
+Y Prithvi Raj,Left arm Medium,Left hand Bat,Bowler,33,Left,Pace,Medium
+RA Bawa,Right arm Medium fast,Left hand Bat,Allrounder,32,Right,Pace,Medium-fast
+VS Yeligati,Right arm Offbreak,Right hand Bat,,32,Right,Spin,Offbreak
+DA Payne,Left arm Fast medium,Right hand Bat,Bowler,31,Left,Pace,Fast-medium
+GD Phillips,Right arm Offbreak,Right hand Bat,Wicketkeeper Batter,31,Right,Spin,Offbreak
+PM Sarvesh Kumar,Right arm Medium,Right hand Bat,,31,Right,Pace,Medium
+NL McCullum,Right arm Offbreak,Right hand Bat,Bowler,30,Right,Spin,Offbreak
+AS Raut,Legbreak Googly,Right hand Bat,Allrounder,30,Right,Spin,Legbreak
+BMAJ Mendis,Legbreak,Left hand Bat,Allrounder,30,Right,Spin,Legbreak
+S Joseph,Right-arm fast,Left-hand bat,,30,Right,Pace,Fast
+H Sharma,Legbreak,Right hand Bat,Bowler,30,Right,Spin,Legbreak
+MA Khote,Right arm Medium,Right hand Bat,,30,Right,Pace,Medium
+PVSN Raju,Unknown,Unknown,Unknown,29,Unknown,Unknown,Unknown
+D Jansen,Left arm Medium,Left hand Bat,,28,Left,Pace,Medium
+D Madushanka,Left arm Medium fast,Right hand Bat,Bowler,28,Left,Pace,Medium-fast
+Mashrafe Mortaza,Right arm Fast medium,Right hand Bat,Bowler,28,Right,Pace,Fast-medium
+IC Porel,Right arm Medium,Right hand Bat,Bowler,26,Right,Pace,Medium
+BJ Dwarshuis,Left arm Fast medium,Left hand Bat,Bowler,26,Left,Pace,Fast-medium
+NB Singh,Right arm Medium,Right hand Bat,Bowler,25,Right,Pace,Medium
+SS Sarkar,Right arm Medium,Right hand Bat,Bowler,25,Right,Pace,Medium
+MG Neser,Right arm Medium fast,Right hand Bat,Bowling Allrounder,25,Right,Pace,Medium-fast
+A Dananjaya,"Right arm Offbreak, Legbreak",Left hand Bat,Allrounder,25,Right,Spin,Offbreak
+DAJ Bracewell,Right arm Fast medium,Right hand Bat,Bowler,25,Right,Pace,Fast-medium
+AA Noffke,Right arm Fast medium,Right hand Bat,Allrounder,25,Right,Pace,Fast-medium
+R Goyal,Left arm Wrist spin,Left hand Bat,Bowler,24,Left,Spin,Left-arm wrist spin
+GR Napier,Right arm Medium,Right hand Bat,Bowling Allrounder,24,Right,Pace,Medium
+P Ray Barman,Legbreak Googly,Right hand Bat,Bowler,24,Right,Spin,Legbreak
+V Kaverappa,Right arm Fast medium,Right hand Bat,Bowler,24,Right,Pace,Fast-medium
+SS Agarwal,Legbreak Googly,Right hand Bat,,24,Right,Spin,Legbreak
+Tilak Varma,Right arm Offbreak,Left hand Bat,Batting Allrounder,23,Right,Spin,Offbreak
+Sumit Kumar,Right arm Medium fast,Right hand Bat,Allrounder,22,Right,Pace,Medium-fast
+R Powell,Right arm Medium fast,Right hand Bat,Middle order Batter,21,Right,Pace,Medium-fast
+Tejas Baroka,Legbreak Googly,Right hand Bat,Bowler,21,Right,Spin,Legbreak
+Vivrant Sharma,Legbreak Googly,Left hand Bat,,21,Right,Spin,Legbreak
+Gurnoor Brar,Right arm Fast,Left hand Bat,Bowler,21,Right,Pace,Fast
+RV Patel,Right arm Medium fast,Right hand Bat,Middle order Batter,20,Right,Pace,Medium-fast
+CJ Dala,Right arm Medium,Right hand Bat,Bowler,19,Right,Pace,Medium
+Sunny Gupta,Right arm Offbreak,Right hand Bat,,19,Right,Spin,Offbreak
+LI Meriwala,Left arm Fast medium,Left hand Bat,Bowler,19,Left,Pace,Fast-medium
+MB Parmar,Right arm Offbreak,Right hand Bat,,19,Right,Spin,Offbreak
+Suryansh Shedge,Unknown,Unknown,Unknown,19,Unknown,Unknown,Unknown
+LMP Simmons,Right arm Medium fast,Right hand Bat,Top order Batter,18,Right,Pace,Medium-fast
+DJ Harris,Right arm Medium,Right hand Bat,,18,Right,Pace,Medium
+RW Price,Slow Left arm Orthodox,Right hand Bat,Bowler,18,Left,Spin,Left-arm orthodox
+NJ Rimmington,Right arm Fast medium,Right hand Bat,Bowler,18,Right,Pace,Fast-medium
+M Shahrukh Khan,Right arm Offbreak,Right hand Bat,Batter,18,Right,Spin,Offbreak
+KS Williamson,Right arm Offbreak,Right hand Bat,Top order Batter,18,Right,Spin,Offbreak
+S Sriram,Slow Left arm Orthodox,Left hand Bat,Middle order Batter,18,Left,Spin,Left-arm orthodox
+D Ferreira,Unknown,Unknown,Unknown,18,Unknown,Unknown,Unknown
+Jalaj S Saxena,"Right arm Offbreak, Legbreak Googly",Right hand Bat,Allrounder,18,Right,Spin,Offbreak
+RS Ghosh,Unknown,Unknown,Unknown,18,Unknown,Unknown,Unknown
+DB Ravi Teja,Legbreak Googly,Right hand Bat,Batter,18,Right,Spin,Legbreak
+A Nel,Right arm Fast medium,Right hand Bat,Bowler,18,Right,Pace,Fast-medium
+DJM Short,Left arm Wrist spin,Left hand Bat,Opening Batter,18,Left,Spin,Left-arm wrist spin
+N Wadhera,Legbreak,Left hand Bat,Top order Batter,17,Right,Spin,Legbreak
+CK Kapugedera,Right arm Medium,Right hand Bat,Middle order Batter,17,Right,Pace,Medium
+CJ Green,Right arm Offbreak,Right hand Bat,Bowling Allrounder,17,Right,Spin,Offbreak
+Monu Kumar,Right arm Medium,Right hand Bat,Bowling Allrounder,16,Right,Pace,Medium
+S Rana,Right arm Medium fast,Right hand Bat,Bowler,16,Right,Pace,Medium-fast
+NA Saini,Right arm Fast,Right hand Bat,Bowler,15,Right,Pace,Fast
+R Sanjay Yadav,Slow Left arm Orthodox,Left hand Bat,Allrounder,14,Left,Spin,Left-arm orthodox
+Abdur Razzak,Slow Left arm Orthodox,Left hand Bat,Bowler,14,Left,Spin,Left-arm orthodox
+AA Kazi,Slow Left arm Orthodox,Left hand Bat,Bowler,13,Left,Spin,Left-arm orthodox
+S Vidyut,Slow Left arm Orthodox,Left hand Bat,Batting Allrounder,13,Left,Spin,Left-arm orthodox
+LRPL Taylor,Right arm Offbreak,Right hand Bat,Middle order Batter,13,Right,Spin,Offbreak
+Arshad Khan (2),Left arm Medium,Left hand Bat,Bowler,13,Left,Pace,Medium
+S Midhun,Legbreak Googly,Right hand Bat,Bowler,13,Right,Spin,Legbreak
+Mohit Rathee,Legbreak,Right hand Bat,Allrounder,12,Right,Spin,Legbreak
+Musheer Khan,Unknown,Unknown,Unknown,12,Unknown,Unknown,Unknown
+RR Bhatkal,Right arm Medium,Right hand Bat,Allrounder,12,Right,Pace,Medium
+Mandeep Singh,Right arm Medium,Right hand Bat,Allrounder,12,Right,Pace,Medium
+JE Root,"Right arm Offbreak, Legbreak",Right hand Bat,Top order Batter,12,Right,Spin,Offbreak
+RR Bose,Right arm Fast medium,Right hand Bat,,12,Right,Pace,Fast-medium
+C Munro,Right arm Medium fast,Left hand Bat,Opening Batter,12,Right,Pace,Medium-fast
+FY Fazal,Right arm Medium,Left hand Bat,Opening Batter,12,Right,Pace,Medium
+PR Veer,Slow left-arm orthodox,Right-hand bat,,12,Left,Spin,Left-arm orthodox
+R Ravindra,Slow Left arm Orthodox,Left hand Bat,Batting Allrounder,12,Left,Spin,Left-arm orthodox
+T Vijay,Right-arm offbreak,Right-hand bat,,12,Right,Spin,Offbreak
+Sachin Baby,Right arm Offbreak,Left hand Bat,Batter,10,Right,Spin,Offbreak
+LA Carseldine,Left arm Medium,Left hand Bat,Allrounder,7,Left,Pace,Medium
+BJ Rohrer,Unknown,Unknown,Unknown,7,Unknown,Unknown,Unknown
+SS Mundhe,Right arm Medium,Right hand Bat,Allrounder,7,Right,Pace,Medium
+Gulbadin Naib,Right arm Medium fast,Right hand Bat,Batting Allrounder,6,Right,Pace,Medium-fast
+C Ganapathy,Right arm Medium,Right hand Bat,,6,Right,Pace,Medium
+AM Rahane,Right arm Medium,Right hand Bat,Top order Batter,6,Right,Pace,Medium
+Karim Janat,Right arm Medium,Right hand Bat,Bowling Allrounder,6,Right,Pace,Medium
+Y Gnaneswara Rao,Right arm Medium,Right hand Bat,Allrounder,6,Right,Pace,Medium
+RA Shaikh,Left arm Medium,Left hand Bat,,6,Left,Pace,Medium
+P Prasanth,Slow Left arm Orthodox,Left hand Bat,Allrounder,6,Left,Spin,Left-arm orthodox
+PWA Mulder,Right arm Medium,Right hand Bat,Allrounder,6,Right,Pace,Medium
+B Chipli,Right arm Medium,Right hand Bat,Batter,6,Right,Pace,Medium
+RA Tripathi,Right arm Medium,Right hand Bat,Top order Batter,6,Right,Pace,Medium
+Aman Hakim Khan,Right arm Medium,Right hand Bat,Bowler,6,Right,Pace,Medium
+RS Gavaskar,Slow Left arm Orthodox,Left hand Bat,,6,Left,Spin,Left-arm orthodox
+SA Yadav,"Right arm Medium, Right arm Offbreak",Right hand Bat,Batter,6,Right,Pace,Medium
+LPC Silva,Legbreak,Right hand Bat,Batter,6,Right,Spin,Legbreak
+TH David,Right arm Offbreak,Right hand Bat,Middle order Batter,6,Right,Spin,Offbreak
+SS Iyer,"Right arm Offbreak, Legbreak Googly",Right hand Bat,Top order Batter,6,Right,Spin,Offbreak
+F du Plessis,Legbreak,Right hand Bat,Middle order Batter,6,Right,Spin,Legbreak
+I Malhotra,Right arm Medium fast,Right hand Bat,Bowler,6,Right,Pace,Medium-fast
+D Brevis,Legbreak,Right hand Bat,Batting Allrounder,3,Right,Spin,Legbreak
+DA Warner,Legbreak,Left hand Bat,Opening Batter,2,Right,Spin,Legbreak
+SPD Smith,Legbreak Googly,Right hand Bat,Middle order Batter,2,Right,Spin,Legbreak
+SN Khan,Legbreak,Right hand Bat,Middle order Batter,2,Right,Spin,Legbreak
+YBK Jaiswal,Legbreak,Left hand Bat,Opening Batter,1,Right,Spin,Legbreak
+AC Gilchrist,Right arm Offbreak,Left hand Bat,Wicketkeeper Batter,1,Right,Spin,Offbreak
+Atharva Taide,Slow Left arm Orthodox,Left hand Bat,Batting Allrounder,1,Left,Spin,Left-arm orthodox
+Ishan Kishan,Unknown,Unknown,Unknown,1,Unknown,Unknown,Unknown
